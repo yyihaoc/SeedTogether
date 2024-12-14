@@ -16,4 +16,9 @@ SeedTogether is a crowd-funding platform to allows individuals to invest in loca
 4. Start the development server:
 `npm run dev`
 
-5. Access the app in your browser according to the localhost port shown in the terminal.
+5. Access the app MVP in your browser according to the localhost port shown in the terminal.
+
+# Website
+
+To access our MVP: 
+https://seedtogether.netlify.app/
